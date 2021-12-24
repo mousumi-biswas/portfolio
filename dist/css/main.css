@@ -127,7 +127,7 @@ body {
   line-height: 1.5;
 }
 body#bg-img {
-  background: url(../img/bg4.jpg);
+  background: url(../images/bg4.jpg);
   background-attachment: fixed;
   background-size: cover;
 }
@@ -470,7 +470,7 @@ main#home h1 {
     transform: translate3d(100%, 0, 0);
   }
   .menu-branding .portrait {
-    background: url("../img/small.jpg");
+    background: url('../images/image.jpg');
     width: 150px;
     height: 150px;
   }
